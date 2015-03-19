@@ -1,0 +1,22 @@
+{
+  "name": "application-model",
+  "version": "0.1.0",
+  "authors": [
+    "zojeda <zojeda@gmail.com>"
+  ],
+  "description": "ApplicationModel allows the definition of typed point of contributions and contributions",
+  "main": "y",
+  "keywords": [
+    "application-model",
+    "contribution",
+    "extension"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
