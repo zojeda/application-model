@@ -39,4 +39,4 @@
   });
 
 
-}(angular.module("appilcationModel")));
+}(angular.module("applicationModel")));
